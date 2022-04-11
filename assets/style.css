@@ -729,3 +729,8 @@ header .overlay {
   padding-top: 25%;
 }
 
+@media (max-width: 990px) {
+  .nav-link {
+    margin-left: 3%
+  }
+}
